@@ -1,0 +1,2 @@
+serviceClass: com.playtech.testassignment.client.RandomGeneratorService
+path: C083232736AC66F556AB917EAB388CB8.gwt.rpc
