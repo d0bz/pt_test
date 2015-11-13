@@ -1,3 +1,0 @@
-# Module playtech_test_assignment
-# RPC service class, partial path of RPC policy file
-com.playtech.testassignment.client.RandomGeneratorService, C083232736AC66F556AB917EAB388CB8.gwt.rpc
